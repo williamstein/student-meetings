@@ -1,12 +1,13 @@
+︠c7e32374-8d4a-4506-a374-67dddec31332︠
 9:00  - 10:30am Aly Deines
 10:30 - 11:30am Keith Clawson
-11:30 - 12:30pm NTS -- "Two-torsion Brauer classes on double covers of
-ruled surfaces", Bianca Viary
+11:30 - 12:30pm NTS -- "Two-torsion Brauer classes on double covers of ruled surfaces", Bianca Viary
 12:30 -  2:00pm Office hours (probably busy due to midterm I'm giving Wednesday)
 2:00  -  2:45pm Simon Spicer
 2:45  -  3:30pm Hao Chen
 3:30  -  4:00pm David McDonald
 4:00  -  5:00pm Andrew Ohana
+︡54004838-3c6d-4c41-9b82-351e0c691b33︡{"stderr":"Error in lines 1-1\nTraceback (most recent call last):\n  File \"/mnt/home/lFqBXyPI/.sagemathcloud/sage_server.py\", line 412, in execute\n    exec compile(block, '', 'single') in namespace, locals\n  File \"<string>\", line 1\n    Integer(9):Integer(00)  - Integer(10):30am Aly Deines\n              ^\nSyntaxError: invalid syntax\n"}︡
 ︠7349b504-a0e8-4faf-993d-d107ef734f19︠
 
 Keith:
@@ -14,7 +15,11 @@ Keith:
    [ ] make the rsnapshots on 05salvus actually work
    [ ] make them web accessible via apache
    [ ] post on /etc/motd of sage.math cluster about
-   [ ]
+   [ ] blah blah
+
+
+
+   kjlkjkl  j
 
 
 
@@ -57,10 +62,11 @@ I.groebner_basis('macaulay2:gb') # optional - macaulay2
 ︡2c38d1a4-38e0-4c9c-8d05-be1fe04eca37︡{"stdout":"k\n\nPolynomialRing\n"}︡
 ︠
 
-︠e9be2e44-4d8a-404e-8234-3caf6fb46312x︠
+︠e9be2e44-4d8a-404e-8234-3caf6fb46︠e9be2e44-4d8a-404e-8234-3caf6fb46312︠
 
 
 2
+︡ac5979fb-dbf4-454b-904e-8c7dc9b2ce7d︡{"stdout":"2\n"}︡
 ︠48423562-5b8d-46d5-97a2-790488130819︠
 
 
